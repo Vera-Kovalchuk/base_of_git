@@ -1,4 +1,5 @@
-git addEmily
+git add
+Emily
 Kate
 Peter
 Michael
